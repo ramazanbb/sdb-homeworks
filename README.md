@@ -57,3 +57,9 @@ Fail2Ban показал активность по SSH с атакуемого х
 -  установить **enabled**  в **true**.
 
 Дополнительная информация по **Fail2Ban**:https://putty.org.ru/articles/fail2ban-ssh.html.
+
+
+
+С выключенным Fail2Ban hydra смогла подобраьт пароль
+с включенным нет.
+![Снимок](/img/113.png)
